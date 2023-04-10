@@ -1,0 +1,9 @@
+FROM alpine:latest
+
+RUN apk update && apk add \
+    cmake \
+    ninja \
+    gcc \
+    gdb \
+    rsync \
+    && rm -rf /var/cache/apk/*
