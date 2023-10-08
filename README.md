@@ -1,1 +1,1 @@
-This is the attempt to create a processing pipeline for the application of Machine Learning on edge. 
+C++ Docker Template Project for Visual Studio
