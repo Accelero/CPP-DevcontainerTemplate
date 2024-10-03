@@ -6,4 +6,5 @@ RUN apk update && apk add \
     gcc \
     gdb \
     rsync \
+    git \
     && rm -rf /var/cache/apk/*
